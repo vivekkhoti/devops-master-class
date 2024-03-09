@@ -1,0 +1,10 @@
+{
+  "main": "viv-acb-api.raml",
+  "name": "viv-acb-api",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "viv-acb-api",
+  "version": "1.0.0"
+}

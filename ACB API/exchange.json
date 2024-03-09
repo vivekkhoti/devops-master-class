@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "version": "1.0.0-SNAPSHOT",
+      "classifier": "raml",
+      "assetId": "acb-api",
+      "groupId": "null",
+      "packaging": "zip",
+      "provided": false
+    }
+  ],
+  "version": "1.0.0",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "classifier": "raml",
+  "main": "acb-api.raml",
+  "assetId": "acb-api",
+  "groupId": "null",
+  "name": "ACB API"
+}
